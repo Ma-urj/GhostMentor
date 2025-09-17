@@ -23,13 +23,6 @@ Built with **Gemini API, Faster-Whisper, OpenCV, and Pygame**, it’s the ultima
 Use it to push boundaries, but respect the rules.
 **We’re not liable if you go rogue.**
 
----
-## 👻 GhostMentor in Action
-
-Watch the phantom code in motion — proof of GhostMentor’s stealth and power:
-
-https://github.com/maruf009sultan/GhostMentor/blob/main/GhostMentor%20original.mp4
-
 
 ---
 
